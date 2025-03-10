@@ -73,9 +73,11 @@ Training was conducted for **100 epochs**.
 
 
 
--Best Val Accuracy: 82.81%
--Best Test Accuracy: 74.76%
--Final loss after Testing: 0.8747
+**Best Val Accuracy**: **82.81%**
+
+**Best Test Accuracy**: **74.76%**
+
+**Final loss after Testing**: **0.8747**
 
 ---
 
