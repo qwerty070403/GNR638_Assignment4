@@ -83,6 +83,8 @@ Training was conducted for **100 epochs**.
 ### **2a: (lr=0.01)**
 
 #### Accuracy and Loss Plots Given Below:
+![image](https://github.com/user-attachments/assets/cb7fb23d-962f-4a5f-8e74-929c7f376464)
+
 
 **Best Test Accuracy**: **74.28%**
 
@@ -93,6 +95,9 @@ Training was conducted for **100 epochs**.
 
 #### Accuracy and Loss Plots Given Below:
 
+![image](https://github.com/user-attachments/assets/1c1c4fb0-b22f-4677-8c29-ecdb9a2f9f97)
+
+
 **Best Test Accuracy**: **80.05%**
 
 **Final loss after Testing**: **0.7207**
@@ -101,6 +106,9 @@ Training was conducted for **100 epochs**.
 ### **2c: (lr=0.001)**
 
 #### Accuracy and Loss Plots Given Below:
+
+![image](https://github.com/user-attachments/assets/7c0af3ac-c3e7-4508-a720-6b9c505ba9c8)
+
 
 **Best Test Accuracy**: **47.12%**
 
@@ -113,6 +121,9 @@ Training was conducted for **100 epochs**.
 
 #### Accuracy and Loss Plots Given Below:
 
+![image](https://github.com/user-attachments/assets/bf482772-d386-42df-a253-697a517aff43)
+
+
 **Best Test Accuracy**: **68.51%**
 
 **Final loss after Testing**: **1.0084**
@@ -121,6 +132,9 @@ Training was conducted for **100 epochs**.
 ### **3b: (lr=1.0)**
 
 #### Accuracy and Loss Plots Given Below:
+
+![image](https://github.com/user-attachments/assets/6ea8b37f-b2b1-4ec4-a937-49443441da38)
+
 
 **Best Test Accuracy**: **76.68%**
 
@@ -133,6 +147,9 @@ Training was conducted for **100 epochs**.
 
 #### Accuracy and Loss Plots Given Below:
 
+![image](https://github.com/user-attachments/assets/ba35ed2d-d2e7-47b3-9199-c7d05dd783f2)
+
+
 **Best Test Accuracy**: **75.96%**
 
 **Final loss after Testing**: **1.2343**
@@ -142,6 +159,9 @@ Training was conducted for **100 epochs**.
 
 #### Accuracy and Loss Plots Given Below:
 
+![image](https://github.com/user-attachments/assets/28043739-e915-43e0-ae86-ed29b4e00add)
+
+
 **Best Test Accuracy**: **75.24%**
 
 **Final loss after Testing**: **0.8464**
@@ -150,6 +170,9 @@ Training was conducted for **100 epochs**.
 ### **4c: (lr=0.1)**
 
 #### Accuracy and Loss Plots Given Below:
+
+![image](https://github.com/user-attachments/assets/b49fb880-3c58-495f-93c3-946a168805ad)
+
 
 **Best Test Accuracy**: **37.50%**
 
@@ -162,6 +185,8 @@ Training was conducted for **100 epochs**.
 
 #### Accuracy and Loss Plots Given Below:
 
+![image](https://github.com/user-attachments/assets/7c07a6b4-d243-4986-b62f-ccf7f6adcddc)
+
 **Best Test Accuracy**: **72.12%**
 
 **Final loss after Testing**: **1.2316**
@@ -170,6 +195,8 @@ Training was conducted for **100 epochs**.
 ### **5b: (lr=0.1),(momentum=0.6)**
 
 #### Accuracy and Loss Plots Given Below:
+
+![image](https://github.com/user-attachments/assets/a779c953-6bfb-4127-9305-8bc633f86bc4)
 
 **Best Test Accuracy**: **77.40%**
 
@@ -180,6 +207,9 @@ Training was conducted for **100 epochs**.
 
 #### Accuracy and Loss Plots Given Below:
 
+![image](https://github.com/user-attachments/assets/bb960d2b-bf8b-427b-a380-084bae4e1bb8)
+
+
 **Best Test Accuracy**: **76.80%**
 
 **Final loss after Testing**: **0.7726**
@@ -188,6 +218,9 @@ Training was conducted for **100 epochs**.
 ### **5d: (lr=0.01),(momentum=0.9)**
 
 #### Accuracy and Loss Plots Given Below:
+
+![image](https://github.com/user-attachments/assets/b29f4652-428c-430c-8831-af5392883bbe)
+
 
 **Best Test Accuracy**: **74.48%**
 
@@ -198,6 +231,9 @@ Training was conducted for **100 epochs**.
 
 #### Accuracy and Loss Plots Given Below:
 
+![image](https://github.com/user-attachments/assets/32a21d1b-ce2b-4157-9d34-538d1a80d17b)
+
+
 **Best Test Accuracy**: **66.24%**
 
 **Final loss after Testing**: **1.1665**
@@ -206,6 +242,9 @@ Training was conducted for **100 epochs**.
 ### **5f: (lr=0.01),(momentum=0.3)**
 
 #### Accuracy and Loss Plots Given Below:
+
+![image](https://github.com/user-attachments/assets/9659c215-48e7-46c2-a3e1-63e9e9dbb0a3)
+
 
 **Best Test Accuracy**: **64.69%**
 
@@ -216,6 +255,9 @@ Training was conducted for **100 epochs**.
 
 #### Accuracy and Loss Plots Given Below:
 
+![image](https://github.com/user-attachments/assets/e960f8ae-7705-4339-8342-5a9eb94d3203)
+
+
 **Best Test Accuracy**: **62.89%**
 
 **Final loss after Testing**: **1.2102**
@@ -224,6 +266,9 @@ Training was conducted for **100 epochs**.
 ### **5h: (lr=0.001),(momentum=0.6)**
 
 #### Accuracy and Loss Plots Given Below:
+
+![image](https://github.com/user-attachments/assets/fdd74a61-eb50-486a-8db7-72fcfb85e324)
+
 
 **Best Test Accuracy**: **52.58%**
 
@@ -234,6 +279,9 @@ Training was conducted for **100 epochs**.
 
 #### Accuracy and Loss Plots Given Below:
 
+![image](https://github.com/user-attachments/assets/0c4a145f-87d3-441b-b8cc-fad8fab1f1a1)
+
+
 **Best Test Accuracy**: **47.16%**
 
 **Final loss after Testing**: **0.8025**
@@ -242,5 +290,5 @@ Training was conducted for **100 epochs**.
 ---
 
 ## **Colab Links**
-- **Part 1: CNN Architecture with ReLU Activation** → [Colab Notebook](https://colab.research.google.com/drive/13KHPbInQRBPFz_22U4aOXWz_WgNgXf_B#scrollTo=oWZiyaG-auD7)
-- **Part 2: CNN Architecture with LeakyReLU (0.01) Activation** → [Colab Notebook](https://colab.research.google.com/drive/1fI3PFIwaAqyts_JlzwSLjfjLuoGZUoVQ?usp=sharing)
+- **Part 1: CNN Architecture with Optimiziers (Adam, Adagrad, Adadelta, RMSprop)** → [Colab Notebook](https://colab.research.google.com/drive/1EyRd79OUE4MuB0J1xVmC2kkoE3lJ8R4D?usp=sharing#scrollTo=7Rv6AANdwbrh)
+- **Part 2: CNN Architecture with Optimiziers (SGD with Momentum)** → [Colab Notebook](https://colab.research.google.com/drive/14SkbfCR51F57tOec_yXtfooi8YUUOt1d#scrollTo=x0bJfgIb0aaF)
