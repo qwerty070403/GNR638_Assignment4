@@ -179,7 +179,7 @@ Training was conducted for **100 epochs**.
 
 ## **Part 5: SGD with Momentum Optimizer**
 
-### **5a) (lr=0.1),(momentum=0.9)**
+### **5a) (lr=0.1, momentum=0.9)**
 
 #### Accuracy and Loss Plots Given Below:
 
@@ -190,7 +190,7 @@ Training was conducted for **100 epochs**.
 **Final loss after Testing**: **1.2316**
 
 
-### **5b) (lr=0.1),(momentum=0.6)**
+### **5b) (lr=0.1, momentum=0.6)**
 
 #### Accuracy and Loss Plots Given Below:
 
@@ -201,7 +201,7 @@ Training was conducted for **100 epochs**.
 **Final loss after Testing**: **0.9120**
 
 
-### **5c) (lr=0.1),(momentum=0.3)**
+### **5c) (lr=0.1, momentum=0.3)**
 
 #### Accuracy and Loss Plots Given Below:
 
@@ -213,7 +213,7 @@ Training was conducted for **100 epochs**.
 **Final loss after Testing**: **0.7726**
 
 
-### **5d) (lr=0.01),(momentum=0.9)**
+### **5d) (lr=0.01, momentum=0.9)**
 
 #### Accuracy and Loss Plots Given Below:
 
@@ -225,7 +225,7 @@ Training was conducted for **100 epochs**.
 **Final loss after Testing**: **0.9295**
 
 
-### **5e) (lr=0.01),(momentum=0.6)**
+### **5e) (lr=0.01, momentum=0.6)**
 
 #### Accuracy and Loss Plots Given Below:
 
@@ -237,7 +237,7 @@ Training was conducted for **100 epochs**.
 **Final loss after Testing**: **1.1665**
 
 
-### **5f) (lr=0.01),(momentum=0.3)**
+### **5f) (lr=0.01, momentum=0.3)**
 
 #### Accuracy and Loss Plots Given Below:
 
@@ -249,7 +249,7 @@ Training was conducted for **100 epochs**.
 **Final loss after Testing**: **1.1000**
 
 
-### **5g) (lr=0.001),(momentum=0.9)**
+### **5g) (lr=0.001, momentum=0.9)**
 
 #### Accuracy and Loss Plots Given Below:
 
@@ -261,7 +261,7 @@ Training was conducted for **100 epochs**.
 **Final loss after Testing**: **1.2102**
 
 
-### **5h) (lr=0.001),(momentum=0.6)**
+### **5h) (lr=0.001, momentum=0.6)**
 
 #### Accuracy and Loss Plots Given Below:
 
@@ -273,7 +273,7 @@ Training was conducted for **100 epochs**.
 **Final loss after Testing**: **1.5236**
 
 
-### **5i) (lr=0.001),(momentum=0.3)**
+### **5i) (lr=0.001, momentum=0.3)**
 
 #### Accuracy and Loss Plots Given Below:
 
