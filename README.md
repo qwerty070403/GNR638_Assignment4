@@ -84,41 +84,27 @@ Training was conducted for **100 epochs**.
 
 #### Accuracy and Loss Plots Given Below:
 
+**Best Test Accuracy**: **74.28%**
 
-
-**Best Val Accuracy**: **%**
-
-**Best Test Accuracy**: **%**
-
-**Final loss after Testing**: ****
+**Final loss after Testing**: **0.8852**
 
 
 ### **2b: (lr=0.1)**
 
-
 #### Accuracy and Loss Plots Given Below:
 
+**Best Test Accuracy**: **80.05%**
 
-
-**Best Val Accuracy**: **%**
-
-**Best Test Accuracy**: **%**
-
-**Final loss after Testing**: ****
+**Final loss after Testing**: **0.7207**
 
 
 ### **2c: (lr=0.001)**
 
-
 #### Accuracy and Loss Plots Given Below:
 
+**Best Test Accuracy**: **47.12%**
 
-
-**Best Val Accuracy**: **%**
-
-**Best Test Accuracy**: **%**
-
-**Final loss after Testing**: ****
+**Final loss after Testing**: **1.7199**
 
 
 ## **Part 3: Adadelta Optimizer**
@@ -127,199 +113,130 @@ Training was conducted for **100 epochs**.
 
 #### Accuracy and Loss Plots Given Below:
 
+**Best Test Accuracy**: **68.51%**
 
-
-**Best Val Accuracy**: **%**
-
-**Best Test Accuracy**: **%**
-
-**Final loss after Testing**: ****
+**Final loss after Testing**: **1.0084**
 
 
 ### **3b: (lr=1.0)**
 
-
 #### Accuracy and Loss Plots Given Below:
 
+**Best Test Accuracy**: **76.68%**
 
-
-**Best Val Accuracy**: **%**
-
-**Best Test Accuracy**: **%**
-
-**Final loss after Testing**: ****
+**Final loss after Testing**: **0.8145**
 
 
 ## **Part 4: RMSprop Optimizer**
 
 ### **4a: (lr=0.01)**
 
-
 #### Accuracy and Loss Plots Given Below:
 
+**Best Test Accuracy**: **75.96%**
 
-
-**Best Val Accuracy**: **%**
-
-**Best Test Accuracy**: **%**
-
-**Final loss after Testing**: ****
+**Final loss after Testing**: **1.2343**
 
 
 ### **4b: (lr=0.001)**
 
-
 #### Accuracy and Loss Plots Given Below:
 
+**Best Test Accuracy**: **75.24%**
 
-
-**Best Val Accuracy**: **%**
-
-**Best Test Accuracy**: **%**
-
-**Final loss after Testing**: ****
+**Final loss after Testing**: **0.8464**
 
 
 ### **4c: (lr=0.1)**
 
-
 #### Accuracy and Loss Plots Given Below:
 
+**Best Test Accuracy**: **37.50%**
+
+**Final loss after Testing**: **2.2755**
 
 
-**Best Val Accuracy**: **%**
-
-**Best Test Accuracy**: **%**
-
-**Final loss after Testing**: ****
-
-
-## **Part 5: SGD with Momentum Optimizer **
+## **Part 5: SGD with Momentum Optimizer**
 
 ### **5a: (lr=0.1),(momentum=0.9)**
 
-
 #### Accuracy and Loss Plots Given Below:
 
+**Best Test Accuracy**: **72.12%**
 
-
-**Best Val Accuracy**: **%**
-
-**Best Test Accuracy**: **%**
-
-**Final loss after Testing**: ****
+**Final loss after Testing**: **1.2316**
 
 
 ### **5b: (lr=0.1),(momentum=0.6)**
 
-
 #### Accuracy and Loss Plots Given Below:
 
+**Best Test Accuracy**: **77.40%**
 
-
-**Best Val Accuracy**: **%**
-
-**Best Test Accuracy**: **%**
-
-**Final loss after Testing**: ****
+**Final loss after Testing**: **0.9120**
 
 
 ### **5c: (lr=0.1),(momentum=0.3)**
 
-
 #### Accuracy and Loss Plots Given Below:
 
+**Best Test Accuracy**: **76.80%**
 
-
-**Best Val Accuracy**: **%**
-
-**Best Test Accuracy**: **%**
-
-**Final loss after Testing**: ****
+**Final loss after Testing**: **0.7726**
 
 
 ### **5d: (lr=0.01),(momentum=0.9)**
 
-
 #### Accuracy and Loss Plots Given Below:
 
+**Best Test Accuracy**: **74.48%**
 
-
-**Best Val Accuracy**: **%**
-
-**Best Test Accuracy**: **%**
-
-**Final loss after Testing**: ****
+**Final loss after Testing**: **0.9295**
 
 
 ### **5e: (lr=0.01),(momentum=0.6)**
 
-
 #### Accuracy and Loss Plots Given Below:
 
+**Best Test Accuracy**: **66.24%**
 
-
-**Best Val Accuracy**: **%**
-
-**Best Test Accuracy**: **%**
-
-**Final loss after Testing**: ****
+**Final loss after Testing**: **1.1665**
 
 
 ### **5f: (lr=0.01),(momentum=0.3)**
 
-
 #### Accuracy and Loss Plots Given Below:
 
+**Best Test Accuracy**: **64.69%**
 
-
-**Best Val Accuracy**: **%**
-
-**Best Test Accuracy**: **%**
-
-**Final loss after Testing**: ****
+**Final loss after Testing**: **1.1000**
 
 
 ### **5g: (lr=0.001),(momentum=0.9)**
 
-
 #### Accuracy and Loss Plots Given Below:
 
+**Best Test Accuracy**: **62.89%**
 
-
-**Best Val Accuracy**: **%**
-
-**Best Test Accuracy**: **%**
-
-**Final loss after Testing**: ****
+**Final loss after Testing**: **1.2102**
 
 
 ### **5h: (lr=0.001),(momentum=0.6)**
 
-
 #### Accuracy and Loss Plots Given Below:
 
+**Best Test Accuracy**: **52.58%**
 
-
-**Best Val Accuracy**: **%**
-
-**Best Test Accuracy**: **%**
-
-**Final loss after Testing**: ****
+**Final loss after Testing**: **1.5236**
 
 
 ### **5i: (lr=0.001),(momentum=0.3)**
 
-
 #### Accuracy and Loss Plots Given Below:
 
+**Best Test Accuracy**: **47.16%**
 
-
-**Best Val Accuracy**: **%**
-
-**Best Test Accuracy**: **%**
-
-**Final loss after Testing**: ****
+**Final loss after Testing**: **0.8025**
 
 
 ---
