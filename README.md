@@ -28,7 +28,7 @@ To evaluate the impact of different optimizers on model performance using the be
 ### Experimental Setup  
 - **Dataset:** UCMerced Dataset (70% Training, 10% Validation, 20% Test)  
 - **Loss Function:** Categorical Cross-Entropy  
-- **Evaluation Metrics:** Validation Accuracy, Test Accuracy  
+- **Evaluation Metrics:** Validation Accuracy, Test Accuracy, Loss Value
 - **Batch Size:** _(Specify batch size used)_  
 - **Number of Epochs:** _(Specify number of epochs used)_  
 - **Learning Rate:** _(Specify learning rate used or if adjusted per optimizer)_  
