@@ -72,15 +72,13 @@ Training was conducted for **100 epochs**.
 ![image](https://github.com/user-attachments/assets/6a9a7ecf-c47e-4ab3-907f-d82c9d5177dc)
 
 
-**Best Val Accuracy**: **82.81%**
-
 **Best Test Accuracy**: **74.76%**
 
 **Final loss after Testing**: **0.8747**
 
 ## **Part 2: Adagrad Optimizer**
 
-### **2a: (lr=0.01)**
+### **2a) (lr=0.01)**
 
 #### Accuracy and Loss Plots Given Below:
 ![image](https://github.com/user-attachments/assets/cb7fb23d-962f-4a5f-8e74-929c7f376464)
@@ -91,7 +89,7 @@ Training was conducted for **100 epochs**.
 **Final loss after Testing**: **0.8852**
 
 
-### **2b: (lr=0.1)**
+### **2b) (lr=0.1)**
 
 #### Accuracy and Loss Plots Given Below:
 
@@ -103,7 +101,7 @@ Training was conducted for **100 epochs**.
 **Final loss after Testing**: **0.7207**
 
 
-### **2c: (lr=0.001)**
+### **2c) (lr=0.001)**
 
 #### Accuracy and Loss Plots Given Below:
 
@@ -117,7 +115,7 @@ Training was conducted for **100 epochs**.
 
 ## **Part 3: Adadelta Optimizer**
 
-### **3a: (lr=0.1)**
+### **3a) (lr=0.1)**
 
 #### Accuracy and Loss Plots Given Below:
 
@@ -129,7 +127,7 @@ Training was conducted for **100 epochs**.
 **Final loss after Testing**: **1.0084**
 
 
-### **3b: (lr=1.0)**
+### **3b) (lr=1.0)**
 
 #### Accuracy and Loss Plots Given Below:
 
@@ -143,7 +141,7 @@ Training was conducted for **100 epochs**.
 
 ## **Part 4: RMSprop Optimizer**
 
-### **4a: (lr=0.01)**
+### **4a) (lr=0.01)**
 
 #### Accuracy and Loss Plots Given Below:
 
@@ -155,7 +153,7 @@ Training was conducted for **100 epochs**.
 **Final loss after Testing**: **1.2343**
 
 
-### **4b: (lr=0.001)**
+### **4b) (lr=0.001)**
 
 #### Accuracy and Loss Plots Given Below:
 
@@ -167,7 +165,7 @@ Training was conducted for **100 epochs**.
 **Final loss after Testing**: **0.8464**
 
 
-### **4c: (lr=0.1)**
+### **4c) (lr=0.1)**
 
 #### Accuracy and Loss Plots Given Below:
 
@@ -181,7 +179,7 @@ Training was conducted for **100 epochs**.
 
 ## **Part 5: SGD with Momentum Optimizer**
 
-### **5a: (lr=0.1),(momentum=0.9)**
+### **5a) (lr=0.1),(momentum=0.9)**
 
 #### Accuracy and Loss Plots Given Below:
 
@@ -192,7 +190,7 @@ Training was conducted for **100 epochs**.
 **Final loss after Testing**: **1.2316**
 
 
-### **5b: (lr=0.1),(momentum=0.6)**
+### **5b) (lr=0.1),(momentum=0.6)**
 
 #### Accuracy and Loss Plots Given Below:
 
@@ -203,7 +201,7 @@ Training was conducted for **100 epochs**.
 **Final loss after Testing**: **0.9120**
 
 
-### **5c: (lr=0.1),(momentum=0.3)**
+### **5c) (lr=0.1),(momentum=0.3)**
 
 #### Accuracy and Loss Plots Given Below:
 
@@ -215,7 +213,7 @@ Training was conducted for **100 epochs**.
 **Final loss after Testing**: **0.7726**
 
 
-### **5d: (lr=0.01),(momentum=0.9)**
+### **5d) (lr=0.01),(momentum=0.9)**
 
 #### Accuracy and Loss Plots Given Below:
 
@@ -227,7 +225,7 @@ Training was conducted for **100 epochs**.
 **Final loss after Testing**: **0.9295**
 
 
-### **5e: (lr=0.01),(momentum=0.6)**
+### **5e) (lr=0.01),(momentum=0.6)**
 
 #### Accuracy and Loss Plots Given Below:
 
@@ -239,7 +237,7 @@ Training was conducted for **100 epochs**.
 **Final loss after Testing**: **1.1665**
 
 
-### **5f: (lr=0.01),(momentum=0.3)**
+### **5f) (lr=0.01),(momentum=0.3)**
 
 #### Accuracy and Loss Plots Given Below:
 
@@ -251,7 +249,7 @@ Training was conducted for **100 epochs**.
 **Final loss after Testing**: **1.1000**
 
 
-### **5g: (lr=0.001),(momentum=0.9)**
+### **5g) (lr=0.001),(momentum=0.9)**
 
 #### Accuracy and Loss Plots Given Below:
 
@@ -263,7 +261,7 @@ Training was conducted for **100 epochs**.
 **Final loss after Testing**: **1.2102**
 
 
-### **5h: (lr=0.001),(momentum=0.6)**
+### **5h) (lr=0.001),(momentum=0.6)**
 
 #### Accuracy and Loss Plots Given Below:
 
@@ -275,7 +273,7 @@ Training was conducted for **100 epochs**.
 **Final loss after Testing**: **1.5236**
 
 
-### **5i: (lr=0.001),(momentum=0.3)**
+### **5i) (lr=0.001),(momentum=0.3)**
 
 #### Accuracy and Loss Plots Given Below:
 
