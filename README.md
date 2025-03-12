@@ -285,6 +285,11 @@ Training was conducted for **100 epochs**.
 **Final loss after Testing**: **0.8025**
 
 
+
+## Best Optimizer
+
+Using **Adagrad Optimizer** with **learning rate = 0.1** in our model is giving **best Test accuracy (80.05%)** and **lowest Final Loss value (0.7207)**.
+
 ---
 
 ## **Colab Links**
