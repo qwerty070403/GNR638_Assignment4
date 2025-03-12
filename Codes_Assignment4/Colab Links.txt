@@ -1,0 +1,6 @@
+Part 1: CNN Architecture with Optimiziers (Adam, Adagrad, Adadelta, RMSprop) → https://colab.research.google.com/drive/1EyRd79OUE4MuB0J1xVmC2kkoE3lJ8R4D?usp=sharing#scrollTo=7Rv6AANdwbrh
+
+
+
+
+Part 2: CNN Architecture with Optimiziers (SGD with Momentum) → https://colab.research.google.com/drive/14SkbfCR51F57tOec_yXtfooi8YUUOt1d#scrollTo=x0bJfgIb0aaF
