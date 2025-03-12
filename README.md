@@ -288,7 +288,8 @@ Training was conducted for **100 epochs**.
 
 ## Best Optimizer
 
-Using **Adagrad Optimizer** with **learning rate = 0.1** in our model is giving **best Test accuracy (80.05%)** and **lowest Final Loss value (0.7207)**.
+Using **Adagrad Optimizer** with **learning rate = 0.1** in our model is giving **best Test accuracy (80.05%)** and **lowest Final Test Loss (0.7207)**. However,
+using **RMSprop Optimizer** with **learning rate = 0.1** in our model is giving **lowest Final Train Loss after 100 epochs**.
 
 ---
 
